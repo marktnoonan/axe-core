@@ -1,6 +1,7 @@
 {
   "id": "non-empty-if-present",
   "evaluate": "non-empty-if-present-evaluate",
+  "deprecated": true,
   "metadata": {
     "impact": "critical",
     "messages": {
